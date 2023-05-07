@@ -1,0 +1,52 @@
+const objs = [
+    {
+    id: 1,
+    nome: 'Ricardo',
+    sobrenome: 'Fahham',
+    idade: 51,
+    atividade: {
+        profissão: 'DEVOPS II',
+        empresa: 'Globo',
+        admissão: 'Outubro/2014'
+    },
+    hobies: ['estudar', 'treinar', 'passear', 'ler']
+},
+    {
+    id: 2,
+    nome: '',
+    sobrenome: '',
+    idade: 0,
+    atividade: {
+        profissão: 'DEVOPS' ,
+        empresa: 'Globo',
+        admissão:'' 
+    },
+    hobies: ['', '']
+},
+    {
+    id: 3,
+    nome: '',
+    sobrenome: '',
+    idade: 0,
+    atividade: {
+        profissão: 'DEVOPS' ,
+        empresa: 'Globo',
+        admissão: ''
+    },
+    hobies: ['', '']
+},
+    {
+    id: 4,
+    nome: '',
+    sobrenome: '',
+    idade: 0,
+    atividade: {
+        profissão: 'DEVOPS' ,
+        empresa: 'Globo',
+        admissão: ''
+    },
+    hobies: ['', '' ]
+}
+]
+
+console.log(objs)
